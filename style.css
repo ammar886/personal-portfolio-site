@@ -1,0 +1,27 @@
+body{
+    
+    background-image: url(abstract.jpg);
+    background-repeat: no-repeat;
+    position: top right;
+    
+}
+#ed{
+    background-color: transparent;
+    border: 2px solid red;
+}
+#hobbies{
+    background-color: transparent;
+    border: 2px solid green;
+}
+#pp{
+    background-color: transparent;
+    border: 2px solid magenta;  
+}
+#projects{
+    background-color: transparent;
+    border: 2px solid blue;
+}
+#skills{
+    background-color: black;
+    border: 2px solid black;
+}
